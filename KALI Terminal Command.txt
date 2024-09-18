@@ -1,0 +1,12 @@
+
+
+
+PWD  	Print Working Directory
+LS 	shows all he folders in the directory
+CD 	Change Directory
+MKDIR	Make Directory
+RMDIR	Remove Directory
+TOUCH 	to creat a txt files
+RM 	to remove txt files
+CAT 	to show what is written inside a txt file
+NANO 	it let you modifie a txt file content
